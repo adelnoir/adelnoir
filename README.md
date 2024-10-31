@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adelnoir
-- 🌱 I’m currently learning Java and Python...
+- 🌱 I’m currently learning Java, SQL and Python...
 
 
 <!---
